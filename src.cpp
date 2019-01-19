@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-  printf("Hello World");
+  printf("Suck My Dick");
   system("pause");
   return 0;
 }
